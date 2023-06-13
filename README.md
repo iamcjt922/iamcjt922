@@ -47,9 +47,9 @@ I already have experience working on a Saas platform, E-commerce, Dynamic websit
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamcjt922&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topdeveloper-dev&theme=blue-green">
-<p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=topdeveloper-dev=Profile%20views&color=0e75b6&style=flat" alt="smart-dev" width='200'/> </p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamcjt922&theme=blue-green">
+<p align="center" style='margin:20px'> <img src="https://komarev.com/ghpvc/?username=iamcjt922=Profile%20views&color=0e75b6&style=flat" alt="smart-dev" width='200'/> </p>
 
-<p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="trophy" /> </p>
+<p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="christian" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamcjt922&theme=onedark" alt="smart-dev" /></a> </p>
