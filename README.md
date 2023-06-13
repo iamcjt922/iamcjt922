@@ -12,7 +12,7 @@ I already have experience working on a Saas platform, E-commerce, Dynamic websit
 <a href="https://www.linkedin.com/in/jonty16117/"><img src="https://img.shields.io/badge/-Jonty-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tejadachristian92@gmail.com"><img src="https://img.shields.io/badge/-tejadachristian92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
----
+
 
 ### 💻 Languages, Frameworks, Tools
 
