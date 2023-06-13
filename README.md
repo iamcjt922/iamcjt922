@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Christian Tejada, Senior Software Engineer & Project Manager
 
 
 <p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
@@ -6,7 +6,12 @@
 I am a senior software developer and project manager having more than 10 years of experience in full-stack development.
 I already have experience working on a Saas platform, E-commerce, Dynamic website, One-pager, WordPress, architecting small to enterprise-level applications and Mobile application. I can create different test plans and test cases adapting to different kinds of projects..
 
+### 🤝🏻 &nbsp;Connect with Me
 
+<p align="center">
+<a href="https://www.linkedin.com/in/jonty16117/"><img src="https://img.shields.io/badge/-Jonty-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tejadachristian92@gmail.com"><img src="https://img.shields.io/badge/-tejadachristian92@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
 ---
 
 ### 💻 Languages, Frameworks, Tools
@@ -53,3 +58,6 @@ I already have experience working on a Saas platform, E-commerce, Dynamic websit
 <p align="center"> <img width='100' src="https://user-images.githubusercontent.com/120065120/212206843-cf86b9c1-9557-4f3e-a49b-f54ba1703e05.png" alt="christian" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamcjt922&theme=onedark" alt="smart-dev" /></a> </p>
+
+
+
