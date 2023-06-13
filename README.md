@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>****
+<p align="center"> <img src="https://user-images.githubusercontent.com/120065120/212209674-07b3685e-1127-4f42-9871-3a423d343fa2.svg" /> </p>
 
 I am a senior software developer and project manager having more than 10 years of experience in full-stack development.
 I already have experience working on a Saas platform, E-commerce, Dynamic website, One-pager, WordPress, architecting small to enterprise-level applications and Mobile application. I can create different test plans and test cases adapting to different kinds of projects..
